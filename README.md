@@ -1,2 +1,2 @@
 # Breast-Cancer-Prediction
-Mini project on breast cancer predicting whether the cancer is benign or malignant
+Mini project based on Logistic Regression algorithm on breast cancer predicting whether the cancer is benign or malignant
